@@ -11,4 +11,4 @@ A shinny dashboard to analize [fixed broadband data for Mexico](https://github.c
 
 Just run **dashboard.R**
 
-
+![]('./screenshot.png')
